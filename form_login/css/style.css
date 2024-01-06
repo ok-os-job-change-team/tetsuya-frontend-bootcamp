@@ -1,3 +1,4 @@
+/* ログインページ */
 .container {
   width: 300px;
   margin: 0 auto;
@@ -24,4 +25,10 @@ button[type="submit"] {
   border: none;
   border-radius: 4px;
   cursor: pointer;
+}
+
+/* マイページ */
+th {
+  width: 35%;
+  text-align: right;
 }
