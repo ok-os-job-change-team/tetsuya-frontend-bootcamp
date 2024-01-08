@@ -1,0 +1,10 @@
+/* 共通のスタイル */
+
+.container {
+  width: 20rem;
+  margin: 0 auto;
+  padding: 1.25rem;
+  background-color: #ffffff;
+  border: 0.0625em solid #ccc;
+  border-radius: 0.3rem;
+}
