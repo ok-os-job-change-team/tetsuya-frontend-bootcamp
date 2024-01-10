@@ -9,7 +9,7 @@ input[type="password"] {
   border-radius: 0.25rem;
 }
 
-button[type="submit"] {
+button {
   width: 100%;
   padding: 0.625rem;
   background-color: #4caf50;
