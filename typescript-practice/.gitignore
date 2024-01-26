@@ -1,0 +1,5 @@
+# node_modulesの無視
+node_modules/
+
+# distの無視
+dist/
